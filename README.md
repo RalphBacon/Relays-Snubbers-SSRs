@@ -1,4 +1,4 @@
-# Relays, Snubbers, SSRs  
+# Relays, Snubbers, SSRs
 ### My relay melted - what did I do to replace it?   
 
 ```
@@ -27,7 +27,7 @@ So I had to replace a relay, add a snubber circuit and learn a painful lesson th
 
 So my eventual solution was fairly straightforward, but there is a better way, which I mention at the end of the video - something for a future project, perhaps, now that the price of the magic component is low enough.  
 
-## LINKS     LINKS     LINKS     LINKS     LINKS     LINKS  
+## LINKS     LINKS     LINKS     LINKS     LINKS     LINKS
 (some links may be affiliate links - doesn't alter my editorial one bit)  
 
 Snubber module (3 pieces but available singly too):  
