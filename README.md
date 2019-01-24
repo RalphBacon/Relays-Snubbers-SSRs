@@ -19,6 +19,9 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Factory Outlet PCBs with most competitive advantages  
   * Chief PCB Manufacturer Located in China 
 ```
+## See my video at https://www.youtube/ralphbacon video #131
+(Direct link to video: https://youtu.be/OAmXypXwkeg)
+
 We all know have to take the specifications of some components (including relays) sourced from the Far East with a pinch of salt sometimes. My 10 Amp mains relay seems to be somewhat underspecified.  
 
 Not only that, the spark from the relay every time I switch my power off could rival some firework displays. This I had to sort out with the standard RC (resistor/capacitor) "snubber" circuit - I found a decent set from China but was it any good?  
