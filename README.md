@@ -1,7 +1,6 @@
 # Relays, Snubbers, SSRs
 ### My relay melted - what did I do to replace it?   
 
-```
 This video is sponsored by https://www.pcbway.com  
 
 ## See my video at https://www.youtube/ralphbacon video #131
