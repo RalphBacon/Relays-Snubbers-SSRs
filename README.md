@@ -3,22 +3,7 @@
 
 ```
 This video is sponsored by https://www.pcbway.com  
-PCBWay will have Chinese New Year's holidays from Jan 30th to Feb 11th. Pls schedule your orders
-earlier to avoid delay.  
-First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 10-pieces just $88.
-PCB Prototyping the easy way - see my video #129 for Hands-On details.
 
-Why Buy Your Printed Circuit Boards From PCBWay?  
-  * Prototype Fab with 24 hours Express  
-  * Team supported with over 50 professionals & technical  
-  * 99% on-Time Shipping with great support from DHL  
-  * Great quality approved by customers all over the world  
-  * Trusted Experience  
-  * 24 Hour Non-stop Tech Support and Production  
-  * Low Minimums  
-  * Factory Outlet PCBs with most competitive advantages  
-  * Chief PCB Manufacturer Located in China 
-```
 ## See my video at https://www.youtube/ralphbacon video #131
 (Direct link to video: https://youtu.be/OAmXypXwkeg)
 
